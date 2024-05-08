@@ -135,3 +135,24 @@
   border-radius: 8px;
   cursor: pointer;
 }
+/* NotFound page */
+.not-found {
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.not-found h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+  text-align:center;
+}
+.not-found p {
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-align:center;
+}
+.not-found .abc{
+  text-decoration: none;
+  cursor: pointer;
+}
